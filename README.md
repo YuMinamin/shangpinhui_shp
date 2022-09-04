@@ -1,2 +1,24 @@
-# shangpinhui_shp
-该项目是基于vue-cli创建的一个综合性的电商购物网站，类似于淘宝，京东商城。登录后 用户可以在该网站浏览商品，加入购物车，下订单以及各种各样的活动。未登录的用户可以不能进行下单，他们可以通过手机号注册的方式进行登录完成购物。
+# project_shp
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
